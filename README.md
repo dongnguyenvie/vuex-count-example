@@ -1,6 +1,7 @@
 # vuex-todo
 
 > A Vue.js project
+[LIVE DEMO](https://dongnguyenvie.github.io/vuex-count-example/)
 
 ## Build Setup
 
